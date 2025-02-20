@@ -2,7 +2,7 @@ package com.vivek.practice;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        int n = 6;
+        int n = 5;
         fib(n);
     }
 
